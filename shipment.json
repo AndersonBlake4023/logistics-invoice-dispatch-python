@@ -1,0 +1,10 @@
+{
+  "shipment_id": "SHIP-1042",
+  "customer_email": "buyer@example.com",
+  "customer_name": "Taylor",
+  "amount": "42.00",
+  "currency": "USD",
+  "events": [{"kind": "delivered", "occurred_at": "2026-09-19T12:00:00Z"}],
+  "proof_of_delivery": [{"name": "Signed receipt", "url": "https://example.com/pod/1042"}],
+  "exceptions": []
+}
